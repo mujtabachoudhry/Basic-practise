@@ -1,0 +1,8 @@
+.main-header{
+    background-image: url("images/yc_logo2.png");
+    background-color:rgba(0,0,0,.6);
+    background-blend-mode: multiply;
+    background-size: cover;
+    color: white;
+}
+
